@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevBuild Lab3 Exponents", "DevBuild Lab3 Exponents\DevBuild Lab3 Exponents.csproj", "{56318A8B-7B5C-46B7-885C-3B4D6140B47C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56318A8B-7B5C-46B7-885C-3B4D6140B47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56318A8B-7B5C-46B7-885C-3B4D6140B47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56318A8B-7B5C-46B7-885C-3B4D6140B47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56318A8B-7B5C-46B7-885C-3B4D6140B47C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90C3969F-9DC6-4B63-A4C6-B135DCCE395D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\mvarasteanu\source\repos\DevBuild Lab3 Exponents\DevBuild Lab3 Exponents\bin\Debug\netcoreapp3.1\DevBuild Lab3 Exponents.exe
+C:\Users\mvarasteanu\source\repos\DevBuild Lab3 Exponents\DevBuild Lab3 Exponents\bin\Debug\netcoreapp3.1\DevBuild Lab3 Exponents.deps.json
+C:\Users\mvarasteanu\source\repos\DevBuild Lab3 Exponents\DevBuild Lab3 Exponents\bin\Debug\netcoreapp3.1\DevBuild Lab3 Exponents.runtimeconfig.json
+C:\Users\mvarasteanu\source\repos\DevBuild Lab3 Exponents\DevBuild Lab3 Exponents\bin\Debug\netcoreapp3.1\DevBuild Lab3 Exponents.runtimeconfig.dev.json
+C:\Users\mvarasteanu\source\repos\DevBuild Lab3 Exponents\DevBuild Lab3 Exponents\bin\Debug\netcoreapp3.1\DevBuild Lab3 Exponents.dll
+C:\Users\mvarasteanu\source\repos\DevBuild Lab3 Exponents\DevBuild Lab3 Exponents\bin\Debug\netcoreapp3.1\DevBuild Lab3 Exponents.pdb
+C:\Users\mvarasteanu\source\repos\DevBuild Lab3 Exponents\DevBuild Lab3 Exponents\obj\Debug\netcoreapp3.1\DevBuild Lab3 Exponents.csproj.AssemblyReference.cache
+C:\Users\mvarasteanu\source\repos\DevBuild Lab3 Exponents\DevBuild Lab3 Exponents\obj\Debug\netcoreapp3.1\DevBuild Lab3 Exponents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvarasteanu\source\repos\DevBuild Lab3 Exponents\DevBuild Lab3 Exponents\obj\Debug\netcoreapp3.1\DevBuild Lab3 Exponents.AssemblyInfoInputs.cache
+C:\Users\mvarasteanu\source\repos\DevBuild Lab3 Exponents\DevBuild Lab3 Exponents\obj\Debug\netcoreapp3.1\DevBuild Lab3 Exponents.AssemblyInfo.cs
+C:\Users\mvarasteanu\source\repos\DevBuild Lab3 Exponents\DevBuild Lab3 Exponents\obj\Debug\netcoreapp3.1\DevBuild Lab3 Exponents.csproj.CoreCompileInputs.cache
+C:\Users\mvarasteanu\source\repos\DevBuild Lab3 Exponents\DevBuild Lab3 Exponents\obj\Debug\netcoreapp3.1\DevBuild Lab3 Exponents.dll
+C:\Users\mvarasteanu\source\repos\DevBuild Lab3 Exponents\DevBuild Lab3 Exponents\obj\Debug\netcoreapp3.1\DevBuild Lab3 Exponents.pdb
+C:\Users\mvarasteanu\source\repos\DevBuild Lab3 Exponents\DevBuild Lab3 Exponents\obj\Debug\netcoreapp3.1\DevBuild Lab3 Exponents.genruntimeconfig.cache
